@@ -1,6 +1,9 @@
 # img410_7_
-# Authors: Liam O'Donnell and Munendra Pratap Choudhary
 
-# Known Issues: None
+In this project, you will explore constructive solid geometry - Radio
 
-Open the OpenSCAD Project as normal
+# Authors: Liam O'Donnell - lko27@nau.edu Munendra Pratap Choudhary - mp2893@nau.edu
+
+Usage: Open the OpenSCAD Project as normal and preview
+
+Known Issues: none
